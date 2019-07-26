@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "ts-json-schema-generator": "^0.52.14",
+    "uniforms": "^2.2.0",
+    "uniforms-bootstrap4": "^2.2.0",
+    "uniforms-bridge-json-schema": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
