@@ -7,10 +7,13 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.87.3",
     "ts-json-schema-generator": "^0.52.14",
     "uniforms": "^2.2.0",
     "uniforms-bootstrap4": "^2.2.0",
-    "uniforms-bridge-json-schema": "^2.2.0"
+    "uniforms-bridge-json-schema": "^2.2.0",
+    "uniforms-semantic": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
