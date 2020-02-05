@@ -1,6 +1,6 @@
 import React from "react";
 import GuestForm from "./GuestForm";
-import logo from "./logo.png";
+import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
