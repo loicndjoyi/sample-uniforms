@@ -1,6 +1,6 @@
 import React from "react";
 import GuestForm from "./GuestForm";
-import logo from "./logo_inverse.png";
+import logo from "./logo.png";
 import "./App.css";
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <nav className="navbar navbar-light bg-dark">
-          <a className="navbar-brand" href="https://www.geniuserp.com/">
+          <a className="navbar-brand" href="https://github.com/vazco/uniforms">
             <img
               src={logo}
               className="d-inline-block align-top"
@@ -19,7 +19,7 @@ function App() {
         </nav>
       </header>
       <div className="d-flex flex-column">
-        <h1 className="text-center">Genius Web Data Manager</h1>
+        <h1 className="text-center">Uniforms sample</h1>
         <div className="card w-75 mx-auto">
           <div className="card-body">
             <GuestForm />
